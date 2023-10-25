@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iuryJavaProgramador
 - 👀 I’m interested in work with Java
 - 🌱 I’m currently learning Java(loiane.training), fullStack complete(EBAC), Algoritmo(DIO)
-- 💞️ I’m looking to collaborate on Java, JS, FrontEnd e BeckEnd java
+- 💞️ I’m looking to collaborate on Java, JS, FrontEnd e BackEnd java
 - 📫 How to reach me E-mail = iuryrodriguesgodoy18@gmail.com 
 
 <!---
