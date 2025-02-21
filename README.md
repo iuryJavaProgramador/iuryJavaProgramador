@@ -28,7 +28,7 @@
 
 #### **📌 My Projects & Portfolio (Fullstack Application)**  
 - **Backend Repository:** [GitHub](https://github.com/iuryJavaProgramador/api-blog)  
-- **Frontend Repository:** [GitHub](https://github.com/iuryJavaProgramador/Entrega01_Recode) [Deployed Version](https://entrega01-recode.vercel.app/)  
+- **Frontend Repository:** [GitHub](https://github.com/iuryJavaProgramador/Entrega01_Recode) <br> [Deployed Version](https://entrega01-recode.vercel.app/)  
 - **Live Site:** [Deployed Version](https://portfolio-snowy-mu-86.vercel.app/)  
 
 
