@@ -28,7 +28,7 @@
 
 #### **📌 My Projects & Portfolio (Fullstack Application)**  
 - **Backend Repository, Personal Blog with Token:** [GitHub](https://github.com/iuryJavaProgramador/api-blog)  
-- **Frontend Repository, Travel Agency:** [GitHub](https://github.com/iuryJavaProgramador/Entrega01_Recode) <br> [Deployed Version](https://entrega01-recode.vercel.app/)  
+- **Frontend Repository, Travel Agency:** [GitHub](https://github.com/iuryJavaProgramador/Entrega01_Recode) <br> [Deployed Version](https://world-travel-taupe.vercel.app/)  
 - **Live Site, Portfolio:** [Deployed Version](https://portfolio-snowy-mu-86.vercel.app/)  
 
 
